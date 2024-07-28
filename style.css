@@ -216,6 +216,7 @@ hr {
     .banner-title {
         font-size: 30px;
         margin: 200px 30px 20px 30px;
+        width: 260px;
     }
     .banner-description {
         margin: 0px 80px 23px 80px;
@@ -237,12 +238,44 @@ hr {
     .donate-today-description {
         font-size: 13px;
         margin: 0px 30px 20px 30px;
+        width: 260px;
     }
     .taka {
         flex-direction: column;
     }
     hr {
-        width: 300px;
+        width: 270px;
+    }
+    .donate-plan-title {
+        font-size: 30px;
+        margin: 70px 0px 20px 0px;
+    }
+    .donate-plan-description {
+        font-size: 13px;
+        margin: 0px 30px 20px 30px;
+        width: 260px;
+    }
+    .plan-container {
+        flex-direction: column;
+        gap: 20px;
+    }
+    .container-one {
+        margin: 0px;
+        width: 270px;
+        height: 260px;
+    }
+    .container-three {
+        margin: 0px;
+        width: 270px;
+        height: 260px;
+    }
+    .container-two {
+        width: 270px;
+        height: 260px;
+    }
+
+    .plan-container img {
+        margin: 20px 278px 27px 5px;
     }
     
 }
