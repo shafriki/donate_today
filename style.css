@@ -334,5 +334,29 @@ hr {
     .plan-container img {
         margin: 20px 278px 27px 5px;
     }
+    .depend-one {
+        flex-direction: column;
+    }
+    .depend-two {
+        flex-direction: column;
+    }
+    .depend-one img {
+        width: 300px;
+        height: 200px;
+    }
+    .depend-two img {
+        width: 300px;
+        height: 200px;
+    }
+    .depend-title {
+        font-size: 30px;
+        /* margin: 70px 0px 20px 0px; */
+        width: 260px;
+    }
+    .depend-description {
+        font-size: 13px;
+        /* margin: 0px 30px 20px 30px; */
+        width: 260px;
+    }
     
 }
