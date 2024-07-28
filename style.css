@@ -332,6 +332,10 @@ hr {
     line-height: 20px;
     letter-spacing: 0%;
     text-align: center;
+    cursor: pointer;
+}
+.update-btn:hover {
+    background-color: forestgreen;
 }
 .footer-content {
     background: rgb(11, 13, 23);
