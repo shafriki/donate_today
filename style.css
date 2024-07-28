@@ -169,5 +169,19 @@ hr {
     .header {
         background-position: center;
     }
+    .donate-today-title {
+        font-size: 30px;
+        margin: 50px 0px 20px 0px;
+    }
+    .donate-today-description {
+        font-size: 13px;
+        margin: 0px 30px 20px 30px;
+    }
+    .taka {
+        flex-direction: column;
+    }
+    hr {
+        width: 300px;
+    }
     
 }
